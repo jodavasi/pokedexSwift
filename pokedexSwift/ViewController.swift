@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Changes")
-        
+        print("image")
         // Do any additional setup after loading the view.
     }
 
